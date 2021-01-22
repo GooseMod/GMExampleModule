@@ -1,6 +1,6 @@
 import { exampleImportedFunction } from './second.js';
 
-const obj = {
+return {
   goosemodHandlers: {
     onImport: () => {
       exampleImportedFunction();
@@ -8,4 +8,3 @@ const obj = {
     onRemove: () => {}
   }
 };
-obj
