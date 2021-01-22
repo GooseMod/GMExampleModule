@@ -1,6 +1,6 @@
 import { exampleImportedFunction } from './second.js';
 
-return {
+export default {
   goosemodHandlers: {
     onImport: () => {
       exampleImportedFunction();
