@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+
+  "name": "Example Module",
+  "description": "",
+  "tags": [],
+  "authors": ["506482395269169153"],
+  "version": "1.0.0"
+}
