@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+
+  "name": "Example Module Sub-Module",
+  "description": "Example Module Sub-Module Description",
+  "tags": ["example", "ui", "messages", "context menu", "random", "fun", "sub module"],
+  "authors": ["506482395269169153"],
+  "version": "0.1.0"
+}
