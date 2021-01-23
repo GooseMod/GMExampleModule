@@ -2,8 +2,8 @@
   "main": "src/index.js",
 
   "name": "Example Module",
-  "description": "",
-  "tags": [],
+  "description": "Example Module Description",
+  "tags": ["example", "ui", "messages", "context menu", "random", "fun"],
   "authors": ["506482395269169153"],
   "version": "1.0.0"
 }
