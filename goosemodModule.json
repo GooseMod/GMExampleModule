@@ -3,7 +3,12 @@
 
   "name": "Example Module",
   "description": "Example Module Description",
+
   "tags": ["example", "ui", "messages", "context menu", "random", "fun"],
+
   "authors": ["506482395269169153"],
+
+  "images": ["http://res.publicdomainfiles.com/pdf_view/1/13483734017459.jpg"],
+
   "version": "1.0.0"
 }
